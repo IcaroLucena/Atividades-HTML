@@ -1,1 +1,1 @@
-Atividade de HTML sobre Disney Pixar.
+Atividade HTML sobre Disney Pixar.
